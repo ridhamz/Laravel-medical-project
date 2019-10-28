@@ -1,0 +1,7 @@
+@include('layouts.home-page-sections.header')
+@include('layouts.home-page-sections.section1')
+@include('layouts.home-page-sections.section2')
+@include('layouts.home-page-sections.section3')
+@include('layouts.home-page-sections.section4')
+@include('layouts.home-page-sections.section6')
+@include('layouts.home-page-sections.footer')

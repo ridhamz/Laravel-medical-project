@@ -1,0 +1,232 @@
+/*btn*/
+.btnn{
+    background-color: #fff;
+    text-transform: uppercase;
+    border:2px solid #6bc2f1;
+    color:#6bc2f1;
+    padding: 2px 5px;
+    margin-top: 17px;
+}
+.btnn:hover{
+    background-color:#6bc2f1 ;
+    color:#fff;
+    border:2px solid #fff;
+
+}
+
+/*btn*/
+.body{
+    background-image:url('../image/bg.jpg') !important;
+    background-size: cover;
+    padding-bottom: 50px;
+    color:#000000;
+}
+
+
+
+.header{
+    background-image:url('../image/bg.jpg') !important;
+    background-size: cover;
+    padding-bottom: 50px;
+}
+.header .slider .container div{
+ padding-top: 200px;
+}
+.header .slider .container div h1{
+    color:white;
+    font-family:sans-serif;
+    margin-bottom:0px;
+}
+.header .slider .container div p{
+     color: #fff;
+    margin-top: 0px;
+    font-family:sans-serif;
+    line-height: 1.4;
+    font-size:11px
+
+}
+.header .slider .container div button{
+    background-color: #fff;
+    text-transform: uppercase;
+    border:2px solid #6bc2f1;
+    color:#6bc2f1;
+    padding: 2px 5px;
+    margin-top: 17px
+}
+.header .slider .container div button:hover{
+    background-color:#6bc2f1 ;
+    color:#fff;
+    border:2px solid #fff;
+}
+
+.section1{
+
+    overflow: hidden;
+    margin:20px 0;
+
+}
+.section1 .container .d1{
+    margin-top:50px;
+    margin-bottom:50px;
+    margin-right: 5%;
+}
+.section1 .container .d1 h2:first-of-type{
+    color:#92d2f5;
+    font-weight: lighter;
+    text-transform: uppercase;
+    font-size:18px
+}
+.section1 .container .d1 h2:last-of-type{
+    font-weight: lighter;
+
+}
+.section1 .container .d1 p{
+line-height:1.5;
+font-size:11px;
+margin-right:18px;
+font-style: italic;
+text-align:left;
+padding-right :10px;
+text-align: justify
+}
+.section1 .container .d1 button{
+    background-color: #fff;
+    text-transform: uppercase;
+    border:2px solid #6bc2f1;
+    color:#6bc2f1;
+    padding: 2px 5px;
+    margin-top: 17px
+}
+.section1 .container .d1 button:hover{
+    background-color:#6bc2f1 ;
+    color:#fff;
+    border:2px solid #6bc2f1;
+}
+.section1 .container .d2 {
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.section1 .container .d2 img{
+  width: 300pt;
+  height: 300pt;
+
+}
+
+.sec2-d2,.sec2-d3
+{
+    background-color:#6bc2f1;
+    text-align: center;
+
+
+}
+.sec2-d2,.sec2-d3 p{
+    font-size:15px;
+}
+.sec2 div{
+    margin-bottom: 10px;
+
+}
+.sec2-d2 h2,.sec2-d3 h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    font-size:20px;
+    text-align: center;
+    line-height:1.5;
+    font-style: italic;
+    padding-right :10px;
+    color:white;
+}
+.sec2-d2 h5,.sec2-d3 h5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px;
+    text-align: center;
+    color:white;
+}
+.sec2-d2 p,.sec2-d3 p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:15px;
+    text-align: center;
+    color: gray
+}
+
+.sec4 div img{
+    width: 350px;
+    height: 250px;
+    margin-bottom: 30px;
+}
+
+.section6{
+    text-align: center;
+    padding: 20px 0;
+}
+
+.section6 .ff input ,.section6 .ff textarea{
+    display:block;
+    margin: auto;
+    margin-bottom:15px;
+    width: 50%;
+}
+.section6 .ff button{
+    background-color: #fff;
+    text-transform: uppercase;
+    border:2px solid #6bc2f1;
+    color:#6bc2f1;
+    padding: 2px 5px;
+    margin-top: 10px;
+    width: 15%;
+}
+.section6 .ff button:hover{
+    background-color:#6bc2f1 ;
+    color:#fff;
+    border:2px solid #fff;
+}
+
+
+.section3 .container .d1 h2,.section3 .container .d2 h2,.section3 .container .d3 h2,.section3 .container .d4 h2,
+.section3 .container .d5 h2,.section3 .container .d6 h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    font-size:20px;
+    text-transform: capitalize;
+    text-align: center;
+    line-height:1.5;
+    font-style: italic;
+    padding-right :10px;
+    color:#6bc2f1;
+
+
+}
+.section3 .container .d1 p,.section3 .container .d2 p,.section3 .container .d3 p,.section3 .container .d4 p,
+.section3 .container .d5 p,.section3 .container .d6 p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    font-size:10px;
+    text-align: center;
+    line-height:1.5;
+    font-style: italic;
+    padding-right :10px;
+    color:gray;
+
+
+}
+
+
+
+.footer{
+    background-color:#072135;
+    padding: 50px 0;
+}
+.footer .container div h2{
+    color:#fff;
+    font-size:12px
+}
+.footer .container div span{
+    margin:10px 0;
+    display:block;
+    color: #fff;
+    font-size: 10px
+}
+.footer .container div p{
+    font-size: 10px;
+    color: #fff
+}

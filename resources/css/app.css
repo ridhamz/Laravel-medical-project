@@ -1,0 +1,28 @@
+.bb{
+    margin-right: 10px;
+}
+
+.crd{
+    background-color: rgb(224, 231, 235);
+    margin-bottom: 5px;
+}
+.crd label{
+    color: rgb(9, 151, 245);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold
+}
+
+.crd  p{
+    margin-bottom:1px !important;
+    padding-left: 10px;
+}
+.crd2 h5{
+    color: rgb(9, 151, 245);
+}
+.crd2 h6{
+    font-size: 15px;
+    color:white;
+    background-color: gray;
+    padding:5px;
+}
+
